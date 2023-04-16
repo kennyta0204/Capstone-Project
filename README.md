@@ -8,7 +8,9 @@ For our project, however, we decided to use songs covering 32 American artists w
 
 ### How to run our code:
 A. Clustering
+
 B. Topic Modeling
+
 C. Generative Model 
 There are 4 notebooks in the Generative_Model folder: https://github.com/kennyta0204/Capstone-Project/tree/main/Generative_Model
 Run them in order 
