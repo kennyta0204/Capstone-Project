@@ -6,4 +6,24 @@ The dataset originally had over 150,000 songs across 4,168 unique artists.
 The dataset includes song name, artist name, genres, and lyrics.
 For our project, however, we decided to use songs covering 32 American artists with the most songs. After filtering to these artists, we have a little over 1400 songs across 32 artists, each with 300 or more songs.
 
-### work in progress
+### How to run our code:
+A. Clustering
+B. Topic Modeling
+C. Generative Model 
+There are 4 notebooks in the Generative_Model folder: https://github.com/kennyta0204/Capstone-Project/tree/main/Generative_Model
+Run them in order 
+
+
+
+
+
+### Requirement.txt 
+
+pandas==1.3.4
+nltk==3.6.5
+matplotlib==3.5.1
+numpy==1.21.5
+scikit-learn==1.0.1
+tensorflow==2.7.0
+language_tool_python==2.6.1
+keras_tuner==1.3.5
