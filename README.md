@@ -7,11 +7,14 @@ The dataset includes song name, artist name, genres, and lyrics.
 For our project, however, we decided to use songs covering 32 American artists with the most songs. After filtering to these artists, we have a little over 1400 songs across 32 artists, each with 300 or more songs.
 
 ### How to run our code:
-A. Clustering
+A. Data Cleaning
+Once the Data has been downloaded, save the data set containing the lyrics as "lyrics-data.csv". Then run 'Data Cleaning.ipynb'
 
-B. Topic Modeling
+B. Clustering
 
-C. Generative Model 
+C. Topic Modeling
+
+D. Generative Model 
 There are 4 notebooks in the Generative_Model folder: https://github.com/kennyta0204/Capstone-Project/tree/main/Generative_Model
 Run them in order 
 
