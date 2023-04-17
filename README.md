@@ -33,13 +33,3 @@ tensorboard --host 0.0.0.0 --logdir=./logs
 You can access the board on URL: http://localhost:6006/ 
 
 
-### Requirement.txt 
-
-pandas==1.3.4
-nltk==3.6.5
-matplotlib==3.5.1
-numpy==1.21.5
-scikit-learn==1.0.1
-tensorflow==2.7.0
-language_tool_python==2.6.1
-keras_tuner==1.3.5
