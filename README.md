@@ -23,7 +23,7 @@ E. Generative Model
 There are 4 notebooks in the Generative_Model folder: https://github.com/kennyta0204/Capstone-Project/tree/main/Generative_Model
 Run them in order 
 
-If encounter erors for Tensorboard, run this in a separate terminal
+If encounter errors for Tensorboard, run this in a separate terminal
 tensorboard --host 0.0.0.0 --logdir=./logs
 
 
