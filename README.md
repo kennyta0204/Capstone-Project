@@ -7,10 +7,14 @@ The dataset includes song name, artist name, genres, and lyrics.
 For our project, however, we decided to use songs covering 32 American artists with the most songs. After filtering to these artists, we have a little over 1400 songs across 32 artists, each with 300 or more songs.
 
 ### How to run our code:
-A. Data Cleaning
+A. Data Cleaning - 
 Once the Data has been downloaded, save the data set containing the lyrics as "lyrics-data.csv". Then run 'Data Cleaning.ipynb'
 
-B. Clustering
+B. Exploration - 
+After running the Data Cleaning notebook, place the output file (lyrics_clean.csv) into a subfolder named 'data'. Then run 'Exploration.ipynb'
+
+C. Clustering - 
+Make sure lyrics_clean.csv is present in the 'data' subfolder. Then run 'Genre Clusters.ipynb'
 
 C. Topic Modeling
 
