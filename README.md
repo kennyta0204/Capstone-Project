@@ -28,6 +28,7 @@ tensorboard --host 0.0.0.0 --logdir=./logs
 
 
 (--host 0.0.0.0: Specifies the host IP address. Setting the host to 0.0.0.0 allows the TensorBoard server to accept connections from any IP address. This is useful when you want to access TensorBoard remotely or from a different machine on the same network.
+
 --logdir=./logs: Specifies the directory where TensorBoard will look for your saved files (logs) generated during TensorFlow runs. In this case, it looks for event files in the logs directory located in the current working directory (./).)
 
 You can access the board on URL: http://localhost:6006/ 
