@@ -16,7 +16,8 @@ After running the Data Cleaning notebook, place the output file (lyrics_clean.cs
 C. Clustering - 
 Make sure lyrics_clean.csv is present in the 'data' subfolder. Then run 'Genre Clusters.ipynb'
 
-D. Topic Modeling
+D. Topic Modeling -
+There are two separate notebook. One is for the LDA model and the other is for NMF model. They are independent of each other
 
 E. Generative Model 
 
