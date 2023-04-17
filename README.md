@@ -24,7 +24,9 @@ There are 4 notebooks in the Generative_Model folder: https://github.com/kennyta
 Run them in order 
 
 If encounter errors for Tensorboard, run this in a separate terminal
+```
 tensorboard --host 0.0.0.0 --logdir=./logs
+```
 
 
 (--host 0.0.0.0: Specifies the host IP address. Setting the host to 0.0.0.0 allows the TensorBoard server to accept connections from any IP address. This is useful when you want to access TensorBoard remotely.
