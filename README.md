@@ -11,10 +11,10 @@ A. Data Cleaning -
 Once the Data has been downloaded, save the data set containing the lyrics as "lyrics-data.csv". Then run 'Data Cleaning.ipynb'
 
 B. Exploration - 
-After running the Data Cleaning notebook, place the output file (lyrics_clean.csv) into a subfolder named 'data'. Then run 'Exploration.ipynb'
+After running the Data Cleaning notebook, place the output file (lyrics_clean_df.csv) into the root directory. Then run 'Exploration.ipynb'
 
 C. Clustering - 
-Make sure lyrics_clean.csv is present in the 'data' subfolder. Then run 'Genre Clusters.ipynb'
+Make sure lyrics_clean.csv is present in the root directory. Then run 'Genre Clusters.ipynb'
 
 D. Topic Modeling -
 There are two separate notebook. One is for the LDA model and the other is for NMF model. They are independent of each other
