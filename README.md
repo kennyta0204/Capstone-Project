@@ -8,7 +8,8 @@ For our project, however, we decided to use songs covering 32 American artists w
 
 ### How to run our code:
 A. Data Cleaning - 
-Once the Data has been downloaded, save the data set containing the lyrics as "lyrics-data.csv". Then run 'Data Cleaning.ipynb'
+Once the Data has been downloaded, save the data set containing the lyrics as 'lyrics-data.csv'. Then run 'Data Cleaning.ipynb' to obtain 'clean_lyrics_df.csv'. 
+In addition, we provided the clean version of the data set in our repository.
 
 B. Exploration - 
 After running the Data Cleaning notebook, place the output file (lyrics_clean_df.csv) into the root directory. Make sure the original Kaggle file artists-data.csv is also in the root directory. Then run 'Exploration.ipynb'
